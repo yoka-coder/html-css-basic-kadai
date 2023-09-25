@@ -1,6 +1,17 @@
+html {
+  font-size: 20px;
+}
+.text-size {
+  font-size: 2rem;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
 }
+p {
+  font-size: 20px;
+}
+
 .google-fonts {
   font-family: 'Josefin Sans', sans-serif;
 }
